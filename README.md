@@ -4,7 +4,7 @@
 
 ## NessByte介绍
 
-NessByte可以访问世界各地网络，不受限制。采用SSL加密保护个人隐私。NessByte拥有自营国际线路。快速连接。
+NessByte耐思云可以访问世界各地网络，不受限制。采用SSL加密保护个人隐私。NessByte拥有自营国际线路。快速连接。
 
 无论是 看奈飞（Netfilx）、迪斯尼、HBO、Youtube(油管) ...Google、 IG、FB 、 twitter、tumblr 等等，都让你快速傲游世界网络。
 
