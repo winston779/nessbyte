@@ -1,6 +1,6 @@
 # NessByte耐思云官网地址
 
-最新地址：[nessbyte.top](https://zone2.nessbyte.top/#/register?code=V4Fvl4Ze)
+最新地址：[nessbyte.top](https://139.196.210.91:2096/#/register?code=V4Fvl4Ze)
 
 ## NessByte介绍
 
